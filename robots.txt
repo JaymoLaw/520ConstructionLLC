@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://520constructionllc.com/sitemap.xml
